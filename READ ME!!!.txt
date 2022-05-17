@@ -1,0 +1,19 @@
+**************IMPORTANT INSTRUCTIONS****************
+
+1. Place the "GIF" and ".py" file in same folder to avoid adding path.
+
+2. Make sure that your PC is connected to internet.
+
+3. All the modules listed below must be installed on your PC.
+	a- Tkinter 
+	b- CV2
+	c- Pyttsx3 (pip install pyttsx3)
+	d- Datetime
+	e- Speech Recognition (pip install SpeechRecognition)
+	f- Wikipidea (pip install wikipidea)
+	g- OS
+	h- PIL
+	i- smptlib
+
+*************** THANK YOU*******************************
+By Roop and Group
