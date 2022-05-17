@@ -141,9 +141,9 @@ def play():
             webbrowser.open("google.com")
 
         elif 'who created you' in query:
-            var.set('Virtual assistant created by ROOP AND GROUP')
+            var.set('Virtual assistant created by Gyan')
             window.update()
-            speak('Virtual assistant created by Roop and group')
+            speak('Virtual assistant created by Gyan')
 
                    
         elif 'your name' in query:
